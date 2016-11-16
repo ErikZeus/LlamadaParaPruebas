@@ -535,6 +535,7 @@
             // linkLabel19
             // 
             this.linkLabel19.AutoSize = true;
+            this.linkLabel19.Enabled = false;
             this.linkLabel19.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel19.Location = new System.Drawing.Point(72, 445);
             this.linkLabel19.Name = "linkLabel19";
